@@ -1,0 +1,23 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# GNU Make dependences
+*.d
+
+# Generated files
+*.res
+src/build.h
+src/loader/loader
+src/loader/loader-m32
+src/proot
